@@ -16,8 +16,6 @@ O artigo traz um estudo sobre _design smells_, que podem ser caracterizados como
 
 ## 3. Fichamento de Citações 
 
-`Aqui devem ser adicionadas as frases mais importantes que aparecem no artigo. Deve ser uma transcrição exata de como estão escritas no artigo, devem ficar entre aspas. Esse fichamento é importante para que possa identificar facilmente como o autor do artigo descreveu um conceito, teoria, método, resultado etc. Deve-se incluir de 3 a 6  itens. Exemplo:`
-
 * _"Just like code smells that indicate violations of good software design guidelines [2], UI design smells violate good UI design guidelines. UI design guidelines constitute design systems for a vast variety of products, platforms and services [3]."_
 * _"In this work, we develop an automated tool (called UISHunter) for detecting UI design smells against the don’t guidelines of Material Design. The design of UIS-Hunter is informed by a demographic study of the don’t-guidelines in Material Design documentation."_
 * _"The study identifies five types of atomic UI information for checking visual guideline violations, including component metadata, typography, iconography, color and edge. Each visual guideline is then defined as a violation condition over the relevant type(s) of atomic UI information."_
